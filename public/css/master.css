@@ -1,4 +1,7 @@
-h1{
-  color : tomato;
-  
+.contact h2{
+ color: tomato;
+}
+.contact .contact-form label{
+ display: inline-block;
+ width: 50px;
 }
